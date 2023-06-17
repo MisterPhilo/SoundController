@@ -1,5 +1,5 @@
 # SoundController
-A easy to use controller I use for all my Sound needs. It automaticallies create three sound instances (localsound, SFX, MainMusic) and two soundgroups (BackgroundGroup, SFXGroup) with the option to add/remove sounds/groups. This module can be ran using the server or the client.
+An easy to use controller I use for all my Sound needs. It automaticallies create three sound instances (localsound, SFX, MainMusic) and two soundgroups (BackgroundGroup, SFXGroup) with the option to add/remove sounds/groups. This module can be ran using the server or the client.
 
 
 ## THE SET UP:
